@@ -1,1 +1,0 @@
-C:\Windows\sysnative\dism.exe /Online /Enable-Feature /All /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementConsole /FeatureName:IIS-HttpCompressionDynamic /FeatureName:IIS-WebSockets /FeatureName:IIS-ISAPIFilter /FeatureName:IIS-ASPNET45

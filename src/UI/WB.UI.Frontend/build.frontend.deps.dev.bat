@@ -1,1 +1,0 @@
-start cmd /c "TITLE hq deps && npm install && npm run dev"
